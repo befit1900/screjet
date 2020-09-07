@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Document</title>
+</head>
+<body>
+	<img src="news-1.jpg" alt="">
+	<img src="news-2.jpg" alt="">
+	<img src="news-3.jpg" alt="">
+	<img src="news-4.jpg" alt="">
+</body>
+</html>
